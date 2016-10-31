@@ -26,7 +26,7 @@ Aprovechando el momentum [Damian Machtey](http://www.meetup.com/members/19250413
 
 [aqui pueden ver el proyecto y explicacion completa](https://github.com/dmachtey/domotics)
 
-Por otra parte con poco tiempo restante para finalizar la reunion nos mostro su [proyecto basado en ESP8266](https://github.com/IAColibri/firmware) utilizandolo como servidor web donde
+Por otra parte con poco tiempo restante para finalizar la reunion [German Gimenez Silva](http://ggerman.github.io/) nos mostro su [proyecto basado en ESP8266](https://github.com/IAColibri/firmware) utilizandolo como servidor web donde
 cabe remarcar su costo con un buen procesados de 32 bits
 
 ![](https://raw.githubusercontent.com/IAColibri/firmware/master/IMG_20160708_004025.jpg)
